@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#blog {
+    color: #002AFE;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#Resources {
+    color: #181D27;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+
+}
+
+#text {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#work {
+    border-radius: 16px;
+    width: 600px;
+    height: 462px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#desgin {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#betterdesgin {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#collaboration {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    height: 143px;
+    width: 584px;
+}
+
+#textebi {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 56px;
+}
+
+#acc {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#saxeli {
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#tarighi {
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+#image {
+    border-radius: 16px;
+    width: 600px;
+    height: 462px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#textebi2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 56px;
+}
+
+
+#Product {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#javascript {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#javascriptframeworks {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    height: 143px;
+    width: 584px;
+}
+
+#account {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#saxeli {
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#tarighi {
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#ajabaja {
+    border-radius: 16px;
+    width: 600px;
+    height: 462px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#textebi3 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 56px;
+}
+
+#success {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#podcast {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#community {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    height: 143px;
+    width: 584px;
+}
+
+#account {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#avatar {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#saxeli {
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#tarighi {
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+}
+#wrapper {
+    background-color: white;
+}
+.main_content {
+    max-width: fit-content;
+    margin: auto;
+    background-color: black;
+    padding: 96px;
+}
